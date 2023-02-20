@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f311d1f27b475144b18eff77e7ef107, type: 3}
+  m_Name: BaldPirate
+  m_EditorClassIdentifier: 
+  MaxHP: 80
+  Name: Bald Pirate
+  Armor: 5
+  Anim: {fileID: 9100000, guid: a9ce31456c75f6a46a9d965c09dc9e95, type: 2}
